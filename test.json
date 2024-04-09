@@ -1,0 +1,11 @@
+{
+  "name": "saif",
+  "age": 20,
+  "skills": ["html", "css", "js"],
+  "hobbies": {
+    "fist": "Football",
+    "second": "Video Games"
+  },
+  "available": true,
+  "money": null
+}
